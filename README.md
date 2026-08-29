@@ -66,15 +66,6 @@ React TypeScript Vite Go / chi PostgreSQL Supabase JWT RBAC
 
 </div>
 
-📫 Connect With Me
-
-<div align="center">
-
-🌐 Portfolio &nbsp;·&nbsp; 💻 GitHub &nbsp;·&nbsp; 💬 Happy to talk about Go, React, or building POS systems
-
-</div>
-
-<div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" width="100%" />
 
