@@ -1,48 +1,40 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Andika%20Putra&fontSize=40&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=18" alt="header" width="100%" />
-
-</div>
-
-<div align="center">
-
-  <a href="https://git.io/typing-svg">
-
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Informatics+Student+%40+Udayana+University;Full-Stack+Web+Developer;Building+OpenPOS+for+Indonesian+SMEs" alt="Typing SVG" />
-
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Andika%20Putra&fontSize=42&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=18&animation=fadeIn" alt="header" width="100%" />
 
 </div>
 
 👨‍💻 About Me
 
+Hi! I'm Andika, an Informatics student at Udayana University who enjoys turning ideas into working web apps — from the pixels on the screen all the way down to the database and the server behind them.
 
 
 
 
-🎓 Informatics student at Udayana University
+
+🔭 Currently building OpenPOS — a Point of Sale system for Indonesian SMEs, now at integrated MVP stage
 
 
 
-🔭 Currently building OpenPOS — a web-based Point of Sale system for Indonesian SMEs (integrated MVP)
+🌱 Learning by building: frontend, backend, databases, APIs, deployment — the whole journey, not just the shiny parts
 
 
 
-🌱 Focused on the complete development process: frontend, backend, databases, APIs, and deployment
+🤖 Big fan of AI-assisted development (OpenCode, Cursor, Antigravity) — I let AI speed things up, but I always make sure I understand why the code works
 
 
 
-🤖 Experienced in AI-assisted development (OpenCode, Cursor, Antigravity) — using AI as an assistant while understanding the engineering underneath
+🎯 Goal: become a well-rounded full-stack developer who understands not just how to build apps, but how the systems behind them work
 
 
 
-🌐 Portfolio: andika-portofolio-eta.vercel.app
+🌐 My work, live in the wild: andika-portofolio-eta.vercel.app
 
 🛠 Tech Stack
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,go,postgres,supabase,git,github&perline=10" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,go,postgres,supabase,git,github&perline=10&theme=dark" alt="tech stack" />
 
 </div>
 
@@ -54,11 +46,9 @@ OpenPOS
 
 
 
-Web-based Point of Sale system designed for Indonesian SMEs. Frontend and backend fully connected at integrated MVP stage.
+A web-based Point of Sale system built for Indonesian SMEs — the project where everything I've learned finally clicks together: auth, cashier flow, product & inventory management, transactions & refunds, reports, and role-based access, all wired to a Go backend with a fully connected frontend.
 
 React TypeScript Vite Go / chi PostgreSQL Supabase JWT RBAC
-
-Features: Authentication · Cashier POS · Product & Inventory Management · Transactions & Refunds · Reports · User Management · Store Settings · Role-Based Access Control
 
 📊 GitHub Stats
 
@@ -70,21 +60,17 @@ Features: Authentication · Cashier POS · Product & Inventory Management · Tra
 
 </div>
 
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=0xMinomus&theme=tokyonight&hide_border=true" alt="Streak stats" />
+
+</div>
+
 📫 Connect With Me
 
 <div align="center">
 
-  <a href="https://andika-portofolio-eta.vercel.app/">
-
-    <img src="https://img.shields.io/badge/Portfolio-andika--portofolio-0F172A?logo=googlechrome&logoColor=white&style=for-the-badge" alt="Portfolio" />
-
-  </a>
-
-  <a href="https://github.com/0xMinomus">
-
-    <img src="https://img.shields.io/badge/GitHub-0xMinomus-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
-
-  </a>
+🌐 Portfolio &nbsp;·&nbsp; 💻 GitHub &nbsp;·&nbsp; 💬 Happy to talk about Go, React, or building POS systems
 
 </div>
 
