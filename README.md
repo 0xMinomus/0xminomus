@@ -8,7 +8,7 @@
 
   <a href="https://git.io/typing-svg">
 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Informatics+Student+%40+Udayana+University;Full-Stack+Web+Developer;Building+OpenPOS+for+Indonesian+SMEs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Informatics+Student+%40+Udayana+University;Full-Stack+Web+Developer;Building+OpenPOS+for+Indonesian+SMEs" alt="Typing SVG" />
 
   </a>
 
@@ -64,9 +64,9 @@ Features: Authentication · Cashier POS · Product & Inventory Management · Tra
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=0xMinomus&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xMinomus&theme=tokyonight" alt="GitHub stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMinomus&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xMinomus&theme=tokyonight" alt="Top languages" />
 
 </div>
 
@@ -76,7 +76,7 @@ Features: Authentication · Cashier POS · Product & Inventory Management · Tra
 
   <a href="https://andika-portofolio-eta.vercel.app/">
 
-    <img src="https://img.shields.io/badge/Portfolio-andika--portofolio-0F172A?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-andika--portofolio-0F172A?logo=googlechrome&logoColor=white&style=for-the-badge" alt="Portfolio" />
 
   </a>
 
