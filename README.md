@@ -1,6 +1,9 @@
-<div align="center" style="background:#0a0a0a;border:1px solid #222222;border-radius:14px;padding:28px 16px;">
-  <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;letter-spacing:5px;margin:0;">ANDIKA PUTRA</p>
-  <p style="font-family:Georgia,'Times New Roman',serif;font-size:30px;color:#ffffff;margin:10px 0 0;">Full-Stack Web Developer</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:262626&height=110&section=header" alt="banner" width="100%" />
+
+<div align="center" style="background:#0a0a0a;border:1px solid #222222;border-radius:14px;padding:26px 16px;margin-top:-2px;">
+  <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;letter-spacing:6px;margin:0;">// ANDIKA PUTRA</p>
+  <p style="font-family:Consolas,Menlo,monospace;font-size:14px;color:#5c5c5c;margin:10px 0 0;">~/dev $ whoami &nbsp;<span style="color:#ffffff;">▮</span></p>
+  <p style="font-family:Georgia,'Times New Roman',serif;font-size:30px;color:#ffffff;margin:8px 0 0;">Full-Stack Web Developer</p>
   <p style="font-family:Consolas,Menlo,monospace;font-size:13px;color:#b5b5b5;margin:14px 0 0;">Informatics @ Udayana University &nbsp;&middot;&nbsp; building OpenPOS for Indonesian SMEs</p>
 </div>
 
@@ -13,7 +16,15 @@ Hi! I'm **Andika** — an Informatics student at **Udayana University** who enjo
 - 🤖 Big fan of AI-assisted development (OpenCode, Cursor, Antigravity) — AI speeds things up, but I always make sure I understand *why* the code works
 - 🎯 Goal: a well-rounded full-stack developer who understands not just *how* to build apps, but *how the systems behind them work*
 
-## Tech Stack
+## Toolkit
+
+<div align="center" style="background:#0a0a0a;border-radius:14px;padding:20px 24px;font-family:Consolas,Menlo,monospace;font-size:14px;color:#e5e5e5;line-height:2.1;">
+  <p style="margin:0;text-align:left;">TypeScript&nbsp;&nbsp;<span style="color:#ffffff;">▓▓▓▓▓▓▓▓▓░</span>&nbsp;&nbsp;90%</p>
+  <p style="margin:0;text-align:left;">React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ffffff;">▓▓▓▓▓▓▓▓░░</span>&nbsp;&nbsp;80%</p>
+  <p style="margin:0;text-align:left;">Tailwind&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ffffff;">▓▓▓▓▓▓▓▓░░</span>&nbsp;&nbsp;80%</p>
+  <p style="margin:0;text-align:left;">Go&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ffffff;">▓▓▓▓▓▓▓░░░</span>&nbsp;&nbsp;70%</p>
+  <p style="margin:0;text-align:left;">PostgreSQL&nbsp;&nbsp;<span style="color:#ffffff;">▓▓▓▓▓▓░░░░</span>&nbsp;&nbsp;60%</p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript--000000?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=000000" alt="TypeScript" />
@@ -30,29 +41,47 @@ Hi! I'm **Andika** — an Informatics student at **Udayana University** who enjo
   <img src="https://img.shields.io/badge/n8n--000000?style=flat-square&logo=n8n&logoColor=ffffff&labelColor=000000" alt="n8n" />
 </p>
 
-**Also working with:** REST APIs · JWT Auth · RBAC · CRUD · Pagination · Deployment
+## Featured Projects
 
-## Featured Project
-
-<div style="background:#0a0a0a;border-radius:14px;padding:24px 20px;">
-  <p style="font-family:Consolas,Menlo,monospace;font-size:11px;letter-spacing:3px;color:#8a8a8a;margin:0;">FEATURED PROJECT</p>
-  <p style="font-size:20px;font-weight:600;color:#ffffff;margin:10px 0 0;">
-    <a href="https://github.com/0xMinomus/openPOS" style="color:#ffffff;">OpenPOS</a>
-  </p>
-  <p style="font-size:14px;color:#c9c9c9;margin:10px 0 0;">A web-based Point of Sale system built for Indonesian SMEs — authentication, cashier POS, product & inventory management, transactions & refunds, reports, user management, store settings, and role-based access control, all wired to a Go backend with a fully connected frontend.</p>
-  <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;margin:14px 0 0;">React &middot; TypeScript &middot; Vite &middot; Go/chi &middot; PostgreSQL &middot; Supabase &middot; JWT &middot; RBAC</p>
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" style="background:#0a0a0a;border-radius:14px;padding:20px;">
+      <p style="font-family:Consolas,Menlo,monospace;font-size:11px;letter-spacing:3px;color:#8a8a8a;margin:0;">// PROJECT 01</p>
+      <p style="font-size:19px;font-weight:600;color:#ffffff;margin:10px 0 0;"><a href="https://github.com/0xMinomus/openPOS" style="color:#ffffff;">OpenPOS</a></p>
+      <p style="font-size:13px;color:#c9c9c9;margin:10px 0 0;">Point of Sale for Indonesian SMEs — auth, cashier POS, inventory, transactions &amp; refunds, reports, and role-based access, wired to a Go backend. Integrated MVP.</p>
+      <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;margin:12px 0 0;">React &middot; TypeScript &middot; Go/chi &middot; PostgreSQL &middot; JWT</p>
+    </td>
+    <td width="50%" style="background:#0a0a0a;border-radius:14px;padding:20px;">
+      <p style="font-family:Consolas,Menlo,monospace;font-size:11px;letter-spacing:3px;color:#8a8a8a;margin:0;">// PROJECT 02</p>
+      <p style="font-size:19px;font-weight:600;color:#ffffff;margin:10px 0 0;"><a href="https://github.com/0xMinomus/napaklivingupdate" style="color:#ffffff;">napakliving</a></p>
+      <p style="font-size:13px;color:#c9c9c9;margin:10px 0 0;">A web product built from PRD to deployment — design docs, product thinking, and a live build on Vercel.</p>
+      <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;margin:12px 0 0;">React &middot; TypeScript &middot; Vite &middot; <a href="https://napaklivingupdate.vercel.app" style="color:#8a8a8a;">live</a></p>
+    </td>
+  </tr>
+</table>
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xMinomus&theme=github_dark" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xMinomus&theme=github_dark" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xMinomus&theme=github_dark" alt="Contributions" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xMinomus&theme=github_dark" alt="GitHub stats" /></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xMinomus&theme=github_dark" alt="Languages by commits" /></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=0xMinomus&theme=highcontrast&hide_border=true" alt="Streak stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xMinomus&theme=github_dark" alt="Commit time" />
+</p>
+
+> *"I don't just want to build apps — I want to understand the systems behind them."*
 
 ## Connect With Me
 
