@@ -1,6 +1,5 @@
 <div align="center" style="background:#0a0a0a;border:1px solid #222222;border-radius:14px;padding:28px 16px;">
   <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;letter-spacing:5px;margin:0;">ANDIKA PUTRA</p>
-  <p style="font-family:Consolas,Menlo,monospace;font-size:14px;color:#5c5c5c;margin:10px 0 0;">~/dev $ whoami</p>
   <p style="font-family:Georgia,'Times New Roman',serif;font-size:30px;color:#ffffff;margin:10px 0 0;">Full-Stack Web Developer</p>
   <p style="font-family:Consolas,Menlo,monospace;font-size:13px;color:#b5b5b5;margin:14px 0 0;">Informatics @ Udayana University &nbsp;&middot;&nbsp; building OpenPOS for Indonesian SMEs</p>
 </div>
