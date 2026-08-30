@@ -1,10 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:262626&height=110&section=header" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:262626&height=190&section=header&text=Andika%20Putra&fontSize=36&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=52&descSize=16" alt="banner" width="100%" />
 
-<div align="center" style="background:#0a0a0a;border:1px solid #222222;border-radius:14px;padding:28px 16px;">
-  <p style="font-family:Georgia,'Times New Roman',serif;font-size:32px;color:#ffffff;margin:0;">Andika Putra</p>
-  <p style="font-family:Consolas,Menlo,monospace;font-size:13px;color:#8a8a8a;letter-spacing:4px;margin:10px 0 0;">FULL-STACK WEB DEVELOPER</p>
-  <p style="font-family:Consolas,Menlo,monospace;font-size:13px;color:#b5b5b5;margin:12px 0 0;">Informatics @ Udayana University &nbsp;&middot;&nbsp; building OpenPOS for Indonesian SMEs</p>
-</div>
+<p align="center" style="font-family:Consolas,Menlo,monospace;font-size:13px;color:#555555;">Informatics @ Udayana University &nbsp;&middot;&nbsp; building OpenPOS for Indonesian SMEs</p>
 
 ## About Me
 
@@ -16,18 +12,9 @@ Hi! I'm **Andika** — an Informatics student at **Udayana University** who enjo
 - 🎯 Goal: a well-rounded full-stack developer who understands not just *how* to build apps, but *how the systems behind them work*
 
 ## Tech Stack
-  <img src="https://img.shields.io/badge/TypeScript--000000?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=000000" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript--000000?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React--000000?style=flat-square&logo=react&logoColor=ffffff&labelColor=000000" alt="React" />
-  <img src="https://img.shields.io/badge/Vite--000000?style=flat-square&logo=vite&logoColor=ffffff&labelColor=000000" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind--000000?style=flat-square&logo=tailwindcss&logoColor=ffffff&labelColor=000000" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Go--000000?style=flat-square&logo=go&logoColor=ffffff&labelColor=000000" alt="Go" />
-  <img src="https://img.shields.io/badge/PostgreSQL--000000?style=flat-square&logo=postgresql&logoColor=ffffff&labelColor=000000" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase--000000?style=flat-square&logo=supabase&logoColor=ffffff&labelColor=000000" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Git--000000?style=flat-square&logo=git&logoColor=ffffff&labelColor=000000" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub--000000?style=flat-square&logo=github&logoColor=ffffff&labelColor=000000" alt="GitHub" />
-  <img src="https://img.shields.io/badge/shadcn/ui--000000?style=flat-square&logo=shadcnui&logoColor=ffffff&labelColor=000000" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/n8n--000000?style=flat-square&logo=n8n&logoColor=ffffff&labelColor=000000" alt="n8n" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript--000000?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=000000" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript--000000?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=000000" alt="JavaScript" /> <img src="https://img.shields.io/badge/React--000000?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=000000" alt="React" /> <img src="https://img.shields.io/badge/Vite--000000?style=for-the-badge&logo=vite&logoColor=ffffff&labelColor=000000" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind--000000?style=for-the-badge&logo=tailwindcss&logoColor=ffffff&labelColor=000000" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Go--000000?style=for-the-badge&logo=go&logoColor=ffffff&labelColor=000000" alt="Go" /> <img src="https://img.shields.io/badge/PostgreSQL--000000?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=000000" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Supabase--000000?style=for-the-badge&logo=supabase&logoColor=ffffff&labelColor=000000" alt="Supabase" /> <img src="https://img.shields.io/badge/Git--000000?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=000000" alt="Git" /> <img src="https://img.shields.io/badge/GitHub--000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" alt="GitHub" /> <img src="https://img.shields.io/badge/shadcn/ui--000000?style=for-the-badge&logo=shadcnui&logoColor=ffffff&labelColor=000000" alt="shadcn/ui" /> <img src="https://img.shields.io/badge/n8n--000000?style=for-the-badge&logo=n8n&logoColor=ffffff&labelColor=000000" alt="n8n" />
 </p>
 
 ## Featured Projects
