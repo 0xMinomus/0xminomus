@@ -1,15 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:262626&height=190&section=header&text=Andika%20Putra&fontSize=36&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=52&descSize=16&fontColor=ffffff" alt="banner" width="100%" />
 
-<p align="center" style="font-family:Consolas,Menlo,monospace;font-size:13px;color:#555555;">Informatics @ Udayana University &nbsp;&middot;&nbsp; building OpenPOS for Indonesian SMEs</p>
+<p align="center" style="font-family:Consolas,Menlo,monospace;font-size:13px;color:#555555;">Informatics student at Udayana University &nbsp;&middot;&nbsp; currently working on OpenPOS for Indonesian SMEs</p>
 
 ## About Me
 
-Hi! I'm **Andika** — an Informatics student at **Udayana University** who enjoys turning ideas into working web apps, from the pixels on screen all the way down to the database behind them.
+Hi, I'm **Andika**, an Informatics student at **Udayana University**. I like working on web apps from start to finish, from the frontend interface down to the database behind it.
 
-- 🔭 Currently building **[OpenPOS](https://github.com/0xMinomus/openPOS)** — a Point of Sale system for Indonesian SMEs, now at integrated MVP stage
-- 🌱 Learning by building: frontend, backend, databases, APIs, deployment — the whole journey, not just the shiny parts
-- 🤖 Big fan of AI-assisted development (OpenCode, Cursor, Antigravity) — AI speeds things up, but I always make sure I understand *why* the code works
-- 🎯 Goal: a well-rounded full-stack developer who understands not just *how* to build apps, but *how the systems behind them work*
+- 🔭 Currently working on **[OpenPOS](https://github.com/0xMinomus/openPOS)**, a Point of Sale system for Indonesian SMEs, now at integrated MVP stage
+- 🌱 Learning by doing: frontend, backend, databases, APIs, and deployment. I want to understand the whole development process, not just one part of it
+- 🤖 I use AI tools like OpenCode, Cursor, and Antigravity to work faster, but I always read and understand the code before shipping it
+- 🎯 My goal is to become a full-stack developer who understands not only how to build an app, but also how the systems behind it work
 
 ## Tech Stack
 
@@ -24,13 +24,13 @@ Hi! I'm **Andika** — an Informatics student at **Udayana University** who enjo
     <td width="50%" style="background:#0a0a0a;border-radius:14px;padding:20px;">
       <p style="font-family:Consolas,Menlo,monospace;font-size:11px;letter-spacing:3px;color:#8a8a8a;margin:0;">// PROJECT 01</p>
       <p style="font-size:19px;font-weight:600;color:#ffffff;margin:10px 0 0;"><a href="https://github.com/0xMinomus/openPOS" style="color:#ffffff;">OpenPOS</a></p>
-      <p style="font-size:13px;color:#c9c9c9;margin:10px 0 0;">Point of Sale for Indonesian SMEs — auth, cashier POS, inventory, transactions &amp; refunds, reports, and role-based access, wired to a Go backend. Integrated MVP.</p>
+      <p style="font-size:13px;color:#c9c9c9;margin:10px 0 0;">Point of Sale for Indonesian SMEs. Covers authentication, cashier POS, product and inventory management, transactions and refunds, reports, user management, and role-based access, all connected to a Go backend. Frontend and backend are fully integrated at MVP stage.</p>
       <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;margin:12px 0 0;">React &middot; TypeScript &middot; Go/chi &middot; PostgreSQL &middot; JWT</p>
     </td>
     <td width="50%" style="background:#0a0a0a;border-radius:14px;padding:20px;">
       <p style="font-family:Consolas,Menlo,monospace;font-size:11px;letter-spacing:3px;color:#8a8a8a;margin:0;">// PROJECT 02</p>
       <p style="font-size:19px;font-weight:600;color:#ffffff;margin:10px 0 0;"><a href="https://github.com/0xMinomus/napaklivingupdate" style="color:#ffffff;">napakliving</a></p>
-      <p style="font-size:13px;color:#c9c9c9;margin:10px 0 0;">A web product built from PRD to deployment — design docs, product thinking, and a live build on Vercel.</p>
+      <p style="font-size:13px;color:#c9c9c9;margin:10px 0 0;">A web product I built from PRD all the way to a live deployment on Vercel, including the design docs.</p>
       <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;margin:12px 0 0;">React &middot; TypeScript &middot; Vite &middot; <a href="https://napaklivingupdate.vercel.app" style="color:#8a8a8a;">live</a></p>
     </td>
   </tr>
@@ -53,7 +53,7 @@ Hi! I'm **Andika** — an Informatics student at **Udayana University** who enjo
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xMinomus&theme=github_dark" alt="Commit time" />
 </p>
 
-> *"I don't just want to build apps — I want to understand the systems behind them."*
+> *"I don't just want to build apps, I want to understand the systems behind them."*
 
 ## Connect With Me
 
@@ -62,10 +62,10 @@ Hi! I'm **Andika** — an Informatics student at **Udayana University** who enjo
     <a href="https://andika-portofolio-eta.vercel.app/" style="color:#ffffff;">portfolio</a>
     &nbsp;&middot;&nbsp;
     <a href="https://github.com/0xMinomus" style="color:#ffffff;">github</a>
-    &nbsp;&middot;&nbsp; open to collabs &amp; ideas
+    &nbsp;&middot;&nbsp; always open to discussing projects and ideas
   </p>
 </div>
 
 <div align="center" style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#999999;margin-top:10px;">
-  &copy; 2026 Andika Putra &mdash; built with curiosity &amp; way too much coffee
+  &copy; 2026 Andika Putra. Built with curiosity, one commit at a time.
 </div>
