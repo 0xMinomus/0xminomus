@@ -1,10 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:262626&height=110&section=header" alt="banner" width="100%" />
 
-<div align="center" style="background:#0a0a0a;border:1px solid #222222;border-radius:14px;padding:26px 16px;margin-top:-2px;">
-  <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;letter-spacing:6px;margin:0;">// ANDIKA PUTRA</p>
-  <p style="font-family:Consolas,Menlo,monospace;font-size:14px;color:#5c5c5c;margin:10px 0 0;">~/dev $ whoami &nbsp;<span style="color:#ffffff;">▮</span></p>
-  <p style="font-family:Georgia,'Times New Roman',serif;font-size:30px;color:#ffffff;margin:8px 0 0;">Full-Stack Web Developer</p>
-  <p style="font-family:Consolas,Menlo,monospace;font-size:13px;color:#b5b5b5;margin:14px 0 0;">Informatics @ Udayana University &nbsp;&middot;&nbsp; building OpenPOS for Indonesian SMEs</p>
+<div align="center" style="background:#0a0a0a;border:1px solid #222222;border-radius:14px;padding:28px 16px;">
+  <p style="font-family:Georgia,'Times New Roman',serif;font-size:32px;color:#ffffff;margin:0;">Andika Putra</p>
+  <p style="font-family:Consolas,Menlo,monospace;font-size:13px;color:#8a8a8a;letter-spacing:4px;margin:10px 0 0;">FULL-STACK WEB DEVELOPER</p>
+  <p style="font-family:Consolas,Menlo,monospace;font-size:13px;color:#b5b5b5;margin:12px 0 0;">Informatics @ Udayana University &nbsp;&middot;&nbsp; building OpenPOS for Indonesian SMEs</p>
 </div>
 
 ## About Me
@@ -16,17 +15,7 @@ Hi! I'm **Andika** — an Informatics student at **Udayana University** who enjo
 - 🤖 Big fan of AI-assisted development (OpenCode, Cursor, Antigravity) — AI speeds things up, but I always make sure I understand *why* the code works
 - 🎯 Goal: a well-rounded full-stack developer who understands not just *how* to build apps, but *how the systems behind them work*
 
-## Toolkit
-
-<div align="center" style="background:#0a0a0a;border-radius:14px;padding:20px 24px;font-family:Consolas,Menlo,monospace;font-size:14px;color:#e5e5e5;line-height:2.1;">
-  <p style="margin:0;text-align:left;">TypeScript&nbsp;&nbsp;<span style="color:#ffffff;">▓▓▓▓▓▓▓▓▓░</span>&nbsp;&nbsp;90%</p>
-  <p style="margin:0;text-align:left;">React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ffffff;">▓▓▓▓▓▓▓▓░░</span>&nbsp;&nbsp;80%</p>
-  <p style="margin:0;text-align:left;">Tailwind&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ffffff;">▓▓▓▓▓▓▓▓░░</span>&nbsp;&nbsp;80%</p>
-  <p style="margin:0;text-align:left;">Go&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ffffff;">▓▓▓▓▓▓▓░░░</span>&nbsp;&nbsp;70%</p>
-  <p style="margin:0;text-align:left;">PostgreSQL&nbsp;&nbsp;<span style="color:#ffffff;">▓▓▓▓▓▓░░░░</span>&nbsp;&nbsp;60%</p>
-</div>
-
-<p align="center">
+## Tech Stack
   <img src="https://img.shields.io/badge/TypeScript--000000?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=000000" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript--000000?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React--000000?style=flat-square&logo=react&logoColor=ffffff&labelColor=000000" alt="React" />
@@ -69,13 +58,9 @@ Hi! I'm **Andika** — an Informatics student at **Udayana University** who enjo
 <table align="center">
   <tr>
     <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xMinomus&theme=github_dark" alt="GitHub stats" /></td>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xMinomus&theme=github_dark" alt="Languages by commits" /></td>
+    <td align="center"><img src="https://streak-stats.demolab.com/?user=0xMinomus&theme=highcontrast&hide_border=true" alt="Streak stats" /></td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=0xMinomus&theme=highcontrast&hide_border=true" alt="Streak stats" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xMinomus&theme=github_dark" alt="Commit time" />
