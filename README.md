@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:262626&height=190&section=header&text=Andika%20Putra&fontSize=36&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=52&descSize=16&fontColor=ffffff" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:262626&height=190&section=header&text=Andika%20Putra&fontSize=36&fontAlignY=38&desc=Informatics%20%2726%20Universitas%20Udayana&descAlignY=52&descSize=16&fontColor=ffffff" alt="banner" width="100%" />
 
 <p align="center" style="font-family:Consolas,Menlo,monospace;font-size:13px;color:#555555;">Informatics student at Udayana University &nbsp;&middot;&nbsp; currently working on OpenPOS for Indonesian SMEs</p>
 
@@ -29,9 +29,9 @@ Hi, I'm **Andika**, an Informatics student at **Udayana University**. I like wor
     </td>
     <td width="50%" style="background:#0a0a0a;border-radius:14px;padding:20px;">
       <p style="font-family:Consolas,Menlo,monospace;font-size:11px;letter-spacing:3px;color:#8a8a8a;margin:0;">// PROJECT 02</p>
-      <p style="font-size:19px;font-weight:600;color:#ffffff;margin:10px 0 0;"><a href="https://github.com/0xMinomus/napaklivingupdate" style="color:#ffffff;">napakliving</a></p>
-      <p style="font-size:13px;color:#c9c9c9;margin:10px 0 0;">A web product I built from PRD all the way to a live deployment on Vercel, including the design docs.</p>
-      <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;margin:12px 0 0;">React &middot; TypeScript &middot; Vite &middot; <a href="https://napaklivingupdate.vercel.app" style="color:#8a8a8a;">live</a></p>
+      <p style="font-size:19px;font-weight:600;color:#ffffff;margin:10px 0 0;"><a href="https://github.com/0xMinomus/OhMyFlow" style="color:#ffffff;">OhMyFlow</a></p>
+      <p style="font-size:13px;color:#c9c9c9;margin:10px 0 0;">An offline AI photo culler for Windows. It sorts thousands of photos into Picks, Maybe, and Rejects in minutes, then exports the ratings as XMP straight into Lightroom. Everything runs on your own machine, no cloud, no subscription.</p>
+      <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;margin:12px 0 0;">Electron &middot; React &middot; TypeScript &middot; ONNX &middot; Tailwind</p>
     </td>
   </tr>
 </table>
