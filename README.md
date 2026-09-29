@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:262626&height=190&section=header&text=Andika%20Putra&fontSize=36&fontAlignY=38&desc=Informatics%20%2726%20Universitas%20Udayana&descAlignY=52&descSize=16&fontColor=ffffff" alt="banner" width="100%" />
+<img src="hero.jpg" alt="Andika Putra - Informatics '26 Student" width="100%" />
 
 <p align="center" style="font-family:Consolas,Menlo,monospace;font-size:13px;color:#555555;">Informatics student at Udayana University &nbsp;&middot;&nbsp; currently working on OpenPOS for Indonesian SMEs</p>
 
