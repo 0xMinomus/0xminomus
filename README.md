@@ -4,12 +4,12 @@
 
 ## About Me
 
-Hi, I'm **Andika**, an Informatics student at **Udayana University**. I like working on web apps from start to finish, from the frontend interface down to the database behind it.
+I'm **Andika**, an Informatics student at **Udayana University** building web applications end to end, from frontend interfaces to backend systems and databases.
 
-- 🔭 Currently working on **[OpenPOS](https://github.com/0xMinomus/openPOS)**, a Point of Sale system for Indonesian SMEs, now at integrated MVP stage
-- 🌱 Learning by doing: frontend, backend, databases, APIs, and deployment. I want to understand the whole development process, not just one part of it
-- 🤖 I use AI tools like OpenCode, Cursor, and Antigravity to work faster, but I always read and understand the code before shipping it
-- 🎯 My goal is to become a full-stack developer who understands not only how to build an app, but also how the systems behind it work
+- Currently building **[OpenPOS](https://github.com/0xMinomus/openPOS)**, a Point of Sale system for Indonesian SMEs, now at integrated MVP stage
+- Working across frontend, backend, databases, APIs, and deployment to understand the full development lifecycle
+- Using AI-assisted tools to accelerate development while ensuring full code comprehension before shipping
+- Focused on becoming a full-stack developer with a solid grasp of both application development and the systems behind it
 
 ## Tech Stack
 
