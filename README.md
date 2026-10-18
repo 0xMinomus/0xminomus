@@ -34,12 +34,30 @@ I'm **Andika**, an Informatics student at **Udayana University** building web ap
       <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;margin:12px 0 0;">Electron &middot; React &middot; TypeScript &middot; ONNX &middot; Tailwind</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" style="background:#0a0a0a;border-radius:14px;padding:20px;">
+      <p style="font-family:Consolas,Menlo,monospace;font-size:11px;letter-spacing:3px;color:#8a8a8a;margin:0;">// PROJECT 03</p>
+      <p style="font-size:19px;font-weight:600;color:#ffffff;margin:10px 0 0;"><a href="https://github.com/0xMinomus/CCode" style="color:#ffffff;">CCode</a></p>
+      <p style="font-size:13px;color:#c9c9c9;margin:10px 0 0;">A no-account, local-first fork of ZCode for agentic coding and desktop automation. Keeps all tasks, keys, and session data strictly on your machine without cloud dependency, featuring desktop automation via MCP on Linux and Windows.</p>
+      <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;margin:12px 0 0;">Electron &middot; TypeScript &middot; Node.js &middot; Python &middot; MCP</p>
+    </td>
+    <td width="50%" style="background:#0a0a0a;border-radius:14px;padding:20px;">
+      <p style="font-family:Consolas,Menlo,monospace;font-size:11px;letter-spacing:3px;color:#8a8a8a;margin:0;">// PROJECT 04</p>
+      <p style="font-size:19px;font-weight:600;color:#ffffff;margin:10px 0 0;"><a href="https://github.com/0xMinomus/n8n-vision-grader" style="color:#ffffff;">n8n-vision-grader</a></p>
+      <p style="font-size:13px;color:#c9c9c9;margin:10px 0 0;">Automated student assignment grading workflow built on n8n. Ingests submissions from Google Drive, renders multi-page PDFs through a Docker sidecar, evaluates answers with a vision LLM, and logs scores and rationales to Google Sheets.</p>
+      <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;margin:12px 0 0;">n8n &middot; Docker &middot; Python &middot; Vision LLM &middot; Google APIs</p>
+    </td>
+  </tr>
 </table>
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xMinomus&theme=github_dark" alt="Contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xMinomus/0xminomus/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xMinomus/0xminomus/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/0xMinomus/0xminomus/output/pacman-contribution-graph-dark.svg" width="100%" />
+  </picture>
 </p>
 
 <table align="center">
