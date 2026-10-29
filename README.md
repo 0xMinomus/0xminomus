@@ -48,6 +48,20 @@ I'm **Andika**, an Informatics student at **Udayana University** building web ap
       <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;margin:12px 0 0;">n8n &middot; Docker &middot; Python &middot; Vision LLM &middot; Google APIs</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" style="background:#0a0a0a;border-radius:14px;padding:20px;">
+      <p style="font-family:Consolas,Menlo,monospace;font-size:11px;letter-spacing:3px;color:#8a8a8a;margin:0;">// PROJECT 05</p>
+      <p style="font-size:19px;font-weight:600;color:#ffffff;margin:10px 0 0;"><a href="https://github.com/0xMinomus/tractus-manus" style="color:#ffffff;">Tractus Manus</a></p>
+      <p style="font-size:13px;color:#c9c9c9;margin:10px 0 0;">A local, webcam-driven mouse for Windows. MediaPipe tracks 21 hand landmarks per frame, so you point to move the cursor, pinch to click or drag, scroll with two fingers, and hold a fist to pause. Camera frames never leave memory, and an optional classifier can be trained on your own landmarks.</p>
+      <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;margin:12px 0 0;">Python &middot; MediaPipe &middot; OpenCV &middot; NumPy &middot; Windows SendInput</p>
+    </td>
+    <td width="50%" style="background:#0a0a0a;border-radius:14px;padding:20px;">
+      <p style="font-family:Consolas,Menlo,monospace;font-size:11px;letter-spacing:3px;color:#8a8a8a;margin:0;">// PROJECT 06</p>
+      <p style="font-size:19px;font-weight:600;color:#ffffff;margin:10px 0 0;"><a href="https://github.com/0xMinomus/tweakbon" style="color:#ffffff;">Tweakbon</a></p>
+      <p style="font-size:13px;color:#c9c9c9;margin:10px 0 0;">A browser-only twibbon editor. Drop a frame and your photo or video, pan and zoom it into the template's transparent hole, then export a PNG or MP4. Everything is composited and encoded inside the tab, with no server, no database, no account, and no upload.</p>
+      <p style="font-family:Consolas,Menlo,monospace;font-size:12px;color:#8a8a8a;margin:12px 0 0;">React &middot; TypeScript &middot; Vite &middot; Canvas &middot; MediaRecorder</p>
+    </td>
+  </tr>
 </table>
 
 ## GitHub Stats
