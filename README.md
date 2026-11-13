@@ -94,6 +94,8 @@ I'm **Andika**, an Informatics student at **Udayana University** building web ap
     <a href="https://andika-portofolio-eta.vercel.app/" style="color:#ffffff;">portfolio</a>
     &nbsp;&middot;&nbsp;
     <a href="https://github.com/0xMinomus" style="color:#ffffff;">github</a>
+    &nbsp;&middot;&nbsp;
+    <a href="https://www.beliweb.id/" style="color:#ffffff;">beliweb</a>
     &nbsp;&middot;&nbsp; always open to discussing projects and ideas
   </p>
 </div>
